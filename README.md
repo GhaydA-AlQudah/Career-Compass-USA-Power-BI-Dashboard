@@ -33,17 +33,20 @@ Power BI Desktop : Report, Model, Power Query
 
 steps 
 ## 1. Metadata
-Feature Name,Source Table,Data Type,Description
-job_id,job_fact,Integer,Unique identifier for each job posting (Primary Key).
-Standardized_Annual_Salary,job_fact,Decimal,Normalized annual compensation in USD.
-job_location_state,job_fact,String,"US State filtered for major Tech Hubs (e.g., CA, NY, TX)."
-job_title_short,job_fact,String,"Categorized job roles (e.g., Data Engineer, Data Analyst)."
-job_health_insurance,job_fact,String,"Benefit status: ""Includes Health Insurance"" vs ""No Health Insurance""."
-job_no_degree_mention,job_fact,String,"Barrier to entry: ""Degree Required"" vs ""Degree Not Required""."
-job_schedule_type,job_fact,String,"Harmonized work schedules (Full-time, Contract, etc.)."
-skill_id,skills_dim_table,Integer,Unique identifier for technical skills.
-skills,skills_dim_table,String,"Specific technical skill name (e.g., Python, SQL, Azure)."
-name,company_dim_table,String,The name of the hiring organization.
+### 📊 Metadata
+
+| Feature Name | Source Table | Data Type | Description |
+| :--- | :--- | :--- | :--- |
+| `job_id` | `job_fact` | Integer | Unique identifier for each job posting (Primary Key). |
+| `Standardized_Annual_Salary` | `job_fact` | Decimal | Normalized annual compensation in USD. |
+| `job_location_state` | `job_fact` | String | US State filtered for major Tech Hubs (e.g., CA, NY, TX). |
+| `job_title_short` | `job_fact` | String | Categorized job roles (e.g., Data Engineer, Data Analyst). |
+| `job_health_insurance` | `job_fact` | String | Benefit status: "Includes Health Insurance" vs "No Health Insurance". |
+| `job_no_degree_mention` | `job_fact` | String | Barrier to entry: "Degree Required" vs "Degree Not Required". |
+| `job_schedule_type` | `job_fact` | String | Harmonized work schedules (Full-time, Contract, etc.). |
+| `skill_id` | `skills_dim_table` | Integer | Unique identifier for technical skills. |
+| `skills` | `skills_dim_table` | String | Specific technical skill name (e.g., Python, SQL, Azure). |
+| `name` | `company_dim_table` | String | The name of the hiring organization. |
 
 ## 2. EDA
 Total Records: ~17,788 cleaned rows (after filtering for major states and removing outliers).

@@ -36,10 +36,12 @@ steps
 #### Metadata
 
 
-## 2. Data Modeling - Snowflake
+## 2. Data Modeling - Snowflake Schema 
 
 
 <img width="1605" height="571" alt="image" src="https://github.com/user-attachments/assets/7dc08da7-494f-4acd-9b7d-31f7e01a2bb9" />
+
+"The data model follows a Snowflake Schema architecture. This was chosen to efficiently handle the Many-to-Many relationship between jobs and skills through a bridge table (skill_job_dim_table), ensuring a highly normalized structure that reduces data redundancy."
 
 
 ## 3. Data Cleaning: 

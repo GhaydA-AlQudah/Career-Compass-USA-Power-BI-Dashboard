@@ -15,7 +15,7 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 # **Our Solution:**
 
-**OLAP Sol.**
+**OLAP Sol. - Batch**
 
 **Strategic Dashboard**
 

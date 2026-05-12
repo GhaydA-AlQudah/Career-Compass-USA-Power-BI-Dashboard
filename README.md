@@ -1,6 +1,6 @@
 # Jobs_Power_BI_Dashboard
 
-## Problem Statement
+# Problem Statement
 Navigating the tech job market is overwhelming for IT professionals. When deciding on a career path (e.g., Data Science vs. Cloud Engineering), individuals often struggle to find a single, reliable source that compares more than just salaries. They face a "data gap" when trying to understand how different roles vary across key U.S. states in terms of:
 
 Financial Reward: What is the actual market value of a role when comparing hourly contracts to annual salaries?
@@ -13,7 +13,7 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 
 
-## **Our Solution:**
+# **Our Solution:**
 
 **OLAP Sol.**
 
@@ -32,7 +32,7 @@ python: pandas ....
 Power BI Desktop : Report, Model, Power Query
 
 steps 
-### 1. EDA
+## 1. EDA
 #### Metadata
 
 

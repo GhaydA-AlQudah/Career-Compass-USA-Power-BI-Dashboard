@@ -33,8 +33,6 @@ steps
 
 ### Data Modeling - Snowflake
 
-<img width="1612" height="650" alt="image" src="https://github.com/user-attachments/assets/1c5e512e-06a5-4970-84ab-42fdbbe16665" />
-
 
 <img width="1605" height="571" alt="image" src="https://github.com/user-attachments/assets/7dc08da7-494f-4acd-9b7d-31f7e01a2bb9" />
 

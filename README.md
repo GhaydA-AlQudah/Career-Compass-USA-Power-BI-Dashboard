@@ -52,20 +52,7 @@ steps
 | `job_id` | `skill_job_dim_table` | Integer | Foreign Key linking jobs to their required skills. |
 | `skill_id` | `skill_job_dim_table` | Integer | Foreign Key linking skills to specific job postings. |
 
-### 🛠️ Skills Dimension Table
-This table stores technical competencies and categorization metadata. It is linked to the fact table through a bridge table to manage many-to-many relationships efficiently.
 
-| Column Name | Data Type | Description |
-| :--- | :--- | :--- |
-| `skill_id` | Integer | Unique identifier for each technical skill (Primary Key). |
-| `skills` | String | The name of the specific skill (e.g., Python, Azure, SQL). |
-| `type` | String | Categorization of the skill (e.g., Programming, Cloud, Databases). |
-
-**Technical Specifications:**
-* **Normalization:** This table represents a normalized branch in the **Snowflake Schema**, ensuring skill metadata is stored once and reused.
-* **Relationship:** 1:N relationship with the bridge table (`skill_job_dim_table`).
-
-* 
 ## 2. EDA
 Total Records: ~17,788 cleaned rows (after filtering for major states and removing outliers).
 

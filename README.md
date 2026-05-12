@@ -42,7 +42,8 @@ steps
 <img width="1605" height="571" alt="image" src="https://github.com/user-attachments/assets/7dc08da7-494f-4acd-9b7d-31f7e01a2bb9" />
 
 
-## 3. Cleaning: MVs, Feature Selection , Empty Rows, Transformation 
+## 3. Data Cleaning: 
+MVs, Feature Selection , Empty Rows, Transformation 
 
 ## 4. Dashboard
 #### Descriptive - Power Query and Dashboard (Analytics - Batch)

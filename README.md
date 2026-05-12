@@ -44,9 +44,13 @@ steps
 
 ## 3. Data Cleaning: 
 MVs
+
 , Feature Selection 
+
 , Empty Rows, 
+
 Transformation 
+
 📍 Data Scoping & Geographical Filtering
 
 ## 4. Dashboard

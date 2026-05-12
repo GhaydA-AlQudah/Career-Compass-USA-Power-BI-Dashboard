@@ -48,6 +48,33 @@ steps
 | `skills` | `skills_dim_table` | String | Specific technical skill name (e.g., Python, SQL, Azure). |
 | `name` | `company_dim_table` | String | The name of the hiring organization. |
 
+### 🏢 Company Dimension Table
+This lookup table is a core component of the **Snowflake Schema**. It isolates organizational metadata to maintain data integrity and reduce redundancy within the fact table.
+
+| Column Name | Data Type | Description |
+| :--- | :--- | :--- |
+| `company_id` | Integer | Unique identifier for each hiring organization (Primary Key). |
+| `name` | String | The official registered name of the company. |
+
+**Technical Specifications:**
+* **Normalization Level:** 2NF/3NF compliant by separating entity attributes from transaction data.
+* **Cardinality:** One-to-Many (1:*) relationship with the `job_fact` table.
+
+
+### 🛠️ Skills Dimension Table
+This table stores technical competencies and categorization metadata. It is linked to the fact table through a bridge table to manage many-to-many relationships efficiently.
+
+| Column Name | Data Type | Description |
+| :--- | :--- | :--- |
+| `skill_id` | Integer | Unique identifier for each technical skill (Primary Key). |
+| `skills` | String | The name of the specific skill (e.g., Python, Azure, SQL). |
+| `type` | String | Categorization of the skill (e.g., Programming, Cloud, Databases). |
+
+**Technical Specifications:**
+* **Normalization:** This table represents a normalized branch in the **Snowflake Schema**, ensuring skill metadata is stored once and reused.
+* **Relationship:** 1:N relationship with the bridge table (`skill_job_dim_table`).
+
+* 
 ## 2. EDA
 Total Records: ~17,788 cleaned rows (after filtering for major states and removing outliers).
 

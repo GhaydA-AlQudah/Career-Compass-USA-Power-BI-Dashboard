@@ -43,7 +43,11 @@ steps
 
 
 ## 3. Data Cleaning: 
-MVs, Feature Selection , Empty Rows, Transformation 
+MVs
+, Feature Selection 
+, Empty Rows, 
+Transformation 
+📍 Data Scoping & Geographical Filtering
 
 ## 4. Dashboard
 #### Descriptive - Power Query and Dashboard (Analytics - Batch)

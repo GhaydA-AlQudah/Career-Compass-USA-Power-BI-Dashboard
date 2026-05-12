@@ -15,6 +15,9 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 ## **Our Solution:**
 
+**OLAP Sol.**
+**Strategic Dashboard**
+
 This dashboard serves as a Strategic Career Navigator. It integrates fragmented data into a unified visual experience, allowing any IT professional to perform a "360-degree comparison." By analyzing salaries, skills, and benefits across top locations, it empowers users to make informed, data-driven decisions about their next career move.
 Modeling and PowerBI Dashboard 
 OLAP
@@ -31,6 +34,10 @@ steps
 ### Data Modeling - Snowflake
 
 <img width="1612" height="650" alt="image" src="https://github.com/user-attachments/assets/1c5e512e-06a5-4970-84ab-42fdbbe16665" />
+
+
+<img width="1605" height="571" alt="image" src="https://github.com/user-attachments/assets/7dc08da7-494f-4acd-9b7d-31f7e01a2bb9" />
+
 
 ### Cleaning: MVs, Feature Selection , Empty Rows, Transformation 
 

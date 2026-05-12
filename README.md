@@ -16,7 +16,10 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 ## **Our Solution:**
 
 **OLAP Sol.**
+
 **Strategic Dashboard**
+
+**For Non-Technical**
 
 This dashboard serves as a Strategic Career Navigator. It integrates fragmented data into a unified visual experience, allowing any IT professional to perform a "360-degree comparison." By analyzing salaries, skills, and benefits across top locations, it empowers users to make informed, data-driven decisions about their next career move.
 Modeling and PowerBI Dashboard 

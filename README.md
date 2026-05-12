@@ -24,26 +24,29 @@ python: pandas ....
 Power BI Desktop : Report, Model, Power Query
 
 steps 
-EDA
-Cleaning: MVs, Feature Selection , Empty Rows
+### EDA
+#### Metadata
+
+
+### Data Modeling - Snowflake
 
 <img width="1612" height="650" alt="image" src="https://github.com/user-attachments/assets/1c5e512e-06a5-4970-84ab-42fdbbe16665" />
 
-Descriptive - Power Query and Dashboard (Analytics - Batch)
+### Cleaning: MVs, Feature Selection , Empty Rows, Transformation 
+
+### Dashboard
+#### Descriptive - Power Query and Dashboard (Analytics - Batch)
 
 
-Diagnostic - Why
+#### Diagnostic - Why
 
 
-Prescriptivs - Actionable Insight
+#### Prescriptivs - Actionable Insight
 
 
 
-## Metadata
+## Demo and Storytelling
 
-## StoryTelling
-
-## Demo
 
 ## 👤 Author
 

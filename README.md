@@ -13,36 +13,38 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 
 
-# **Our Solution:**
+# **Our Solution: Your Strategic Career Navigator**
 
-**OLAP Sol. - Batch**
+**Imagine having a personal GPS for your tech career!**
 
-**Strategic Dashboard**
+I’ve built more than just a report; this is a **Strategic Dashboard** focused on a 360-degree comparison. Whether you are a Data Scientist, an Engineer, or just starting in IT, this tool allows you to:
 
-**For Non-Technical**
+1. See the Full Spectrum: Compare salaries, skills, and benefits across the top tech hubs in the US.
 
-**UX/ UI**
+2. Make Smarter Moves: Use data-driven insights to decide your next career step based on facts, not guesses.
 
-This dashboard serves as a Strategic Career Navigator. It integrates fragmented data into a unified visual experience, allowing any IT professional to perform a "360-degree comparison." By analyzing salaries, skills, and benefits across top locations, it empowers users to make informed, data-driven decisions about their next career move.
-Modeling and PowerBI Dashboard 
-OLAP
+3. Simplicity for Everyone: While the backend is complex, the **UX/UI** is designed to be intuitive for **Non-Technical** users, making advanced analytics accessible to all.
 
-Technologies 
-python: pandas ....
-Power BI Desktop : Report, Model, Power Query
 
-steps 
+🛠️ What’s under the hood?
+To make this "simple" experience possible, I handled the heavy engineering tasks:
+
+Data Engineering (Python & Pandas): I cleaned and transformed raw datasets to ensure high-quality, reliable information.
+
+Advanced Modeling (OLAP & Snowflake Schema): I designed an efficient OLAP Batch Solution using a Snowflake Schema to handle complex relationships between jobs, companies, and skills.
+
+Visual Storytelling (Power BI): Using Power Query and **DAX**, I built a dynamic model that updates and responds to user needs instantly.
+
+ 
 ## 1. Metadata
-### 📊 Metadata
 
 | Feature Name | Source Table | Data Type | Description |
 | :--- | :--- | :--- | :--- |
 | `job_id` | `job_fact` | Integer | Unique identifier for each job posting (Primary Key). |
-| `Standardized_Annual_Salary` | `job_fact` | Decimal | Normalized annual compensation in USD. |
+| `Annual_Salary` | `job_fact` | Decimal | Normalized annual compensation in USD. |
 | `job_location_state` | `job_fact` | String | US State filtered for major Tech Hubs (e.g., CA, NY, TX). |
 | `job_title_short` | `job_fact` | String | Categorized job roles (e.g., Data Engineer, Data Analyst). |
 | `job_health_insurance` | `job_fact` | String | Benefit status: "Includes Health Insurance" vs "No Health Insurance". |
-| `job_no_degree_mention` | `job_fact` | String | Barrier to entry: "Degree Required" vs "Degree Not Required". |
 | `job_schedule_type` | `job_fact` | String | Harmonized work schedules (Full-time, Contract, etc.). |
 | `skill_id` | `skills_dim_table` | Integer | Unique identifier for technical skills. |
 | `skills` | `skills_dim_table` | String | Specific technical skill name (e.g., Python, SQL, Azure). |
@@ -74,13 +76,14 @@ Granularity: The data is at the "Individual Job Posting" level.
 #### Empty rows and Errors Removed.
 
 #### Feature Selection : Unrelevant Columns removed
+
 #### Feature Extraction: salay rate
 
 
-#### Transformation : 1. Numerical Values Mapped into meaningful values
-####                  2. cities mapped into states
-####                  3. schedule type
-#### Filtering Data Scoping & Geographical Filtering
+#### Transformation : 1. Transformed encoded numerical values into human-readable, meaningful labels.
+####                  2. Geospatial Normalization: Mapped specific cities into their respective US States to enable high-level geographical grouping.
+####                  3. Standardized various schedule_type entries into unified categories (e.g., Full-time, Contract, Internship).
+#### Applied filters to scope the data specifically to US Tech Hubs, ensuring the analysis remains relevant to the targeted market.
 #### Outliers
 
 ## 5. Dashboard
@@ -98,6 +101,8 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 
 #### Prescriptivs - Actionable Insight
+
+##### based on your ///
 
 
 

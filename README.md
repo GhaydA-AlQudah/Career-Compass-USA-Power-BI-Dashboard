@@ -101,7 +101,7 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 
 ### Ideas :
-#### - [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary
+- [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary
 
 #### 2. - [ ]
 

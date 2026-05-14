@@ -70,12 +70,6 @@ Granularity: The data is at the "Individual Job Posting" level.
 ## 3. Data Modeling - Snowflake Schema 
 
 
-<img width="1577" height="587" alt="image" src="https://github.com/user-attachments/assets/bc401a32-da99-4338-abab-c0badda572a5" />
-
-
-<img width="1537" height="500" alt="image" src="https://github.com/user-attachments/assets/32390f20-d5e9-447b-be8a-f5ec301974b2" />
-
-
 <img width="1537" height="500" alt="image" src="https://github.com/user-attachments/assets/68a1463c-2d56-41a9-8f48-7dcbc43ef6de" />
 
 

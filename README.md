@@ -93,22 +93,12 @@ Granularity: The data is at the "Individual Job Posting" level.
 <img width="1316" height="602" alt="image" src="https://github.com/user-attachments/assets/4e122d4a-ac69-4b44-aa42-7d9d0c08dc57" />
 
 
-#### each chart
-
-
-#### Descriptive - Power Query and Dashboard (Analytics - Batch)
-
-
-#### Diagnostic - Why
-
-
-#### Prescriptivs - Actionable Insight
-
+### Ideas :
+####
 ##### based on your ///
 
 
 
-# Demo and Storytelling
 
 
 # 👤 Author

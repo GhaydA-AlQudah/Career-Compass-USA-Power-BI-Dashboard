@@ -67,7 +67,8 @@ Granularity: The data is at the "Individual Job Posting" level.
 ## 3. Data Modeling - Snowflake Schema 
 
 
-<img width="1605" height="571" alt="image" src="https://github.com/user-attachments/assets/7dc08da7-494f-4acd-9b7d-31f7e01a2bb9" />
+<img width="1577" height="587" alt="image" src="https://github.com/user-attachments/assets/bc401a32-da99-4338-abab-c0badda572a5" />
+
 
 "The data model follows a Snowflake Schema architecture. This was chosen to efficiently handle the Many-to-Many relationship between jobs and skills through a bridge table (skill_job_dim_table), ensuring a highly normalized structure that reduces data redundancy."
 

@@ -13,7 +13,7 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 
 
-# **Our Solution: Your Strategic Career Navigator**
+# **Our Solution: Your Interactive Strategic Career Navigator**
 
 **Imagine having a personal GPS for your tech career!**
 
@@ -38,9 +38,12 @@ Visual Storytelling (Power BI): Using Power Query and **DAX**, I built a dynamic
  
 ## 1. Metadata
 
+### Data Source: https://www.lukebarousse.com/sql
+
 | Feature Name | Source Table | Data Type | Description |
 | :--- | :--- | :--- | :--- |
-| `job_id` | `job_fact` | Integer | Unique identifier for each job posting (Primary Key). |
+| `Jobs` | `job_fact` | Integer | Unique identifier for each job posting (Primary Key). |
+| `Companies` | `job_fact` | Integer | Foreign Key linking Companies to Jobs. |
 | `Annual_Salary` | `job_fact` | Decimal | Normalized annual compensation in USD. |
 | `job_location_state` | `job_fact` | String | US State filtered for major Tech Hubs (e.g., CA, NY, TX). |
 | `job_title_short` | `job_fact` | String | Categorized job roles (e.g., Data Engineer, Data Analyst). |
@@ -60,7 +63,7 @@ Total Records: ~17,788 cleaned rows (after filtering for major states and removi
 
 Time Scope: Data reflects job postings as of late 2023.
 
-Data Integrity: 100% validity across key columns (Standardized_Annual_Salary, job_health_insurance) with no nulls in the final transformed set.
+Data Integrity: 100% validity across key columns (Annual_Salary, job_health_insurance) with no nulls in the final transformed set.
 
 Granularity: The data is at the "Individual Job Posting" level.
 
@@ -93,12 +96,17 @@ Granularity: The data is at the "Individual Job Posting" level.
 <img width="1707" height="660" alt="image" src="https://github.com/user-attachments/assets/f11683a7-4ea7-47b0-9f39-af98e63fad5f" />
 
 
+### Example : Filtering on California State
+<img width="1705" height="662" alt="image" src="https://github.com/user-attachments/assets/2fe61f0c-6b0f-4c2f-9297-2206f8b3468a" />
+
+
 ### Ideas :
-####
+#### 1. 
+#### 2. 
+
+
+### Recommendation
 ##### based on your ///
-
-
-
 
 
 # 👤 Author

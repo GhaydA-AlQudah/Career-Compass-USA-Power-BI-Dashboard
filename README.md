@@ -17,6 +17,9 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 **Imagine having a personal GPS for your tech career!**
 
+<img width="1707" height="660" alt="image" src="https://github.com/user-attachments/assets/f11683a7-4ea7-47b0-9f39-af98e63fad5f" />
+
+
 I’ve built more than just a report; this is a **Strategic Dashboard** focused on a 360-degree comparison. Whether you are a Data Scientist, an Engineer, or just starting in IT, this tool allows you to:
 
 1. See the Full Spectrum: Compare salaries, skills, and benefits across the top tech hubs in the US.
@@ -59,7 +62,7 @@ Visual Storytelling (Power BI): Using Power Query and **DAX**, I built a dynamic
 
 
 ## 2. EDA
-Total Records: ~17,788 cleaned rows (after filtering for major states and removing outliers).
+Total Records: 17,788 cleaned rows (after filtering for major states and removing outliers).
 
 Time Scope: Data reflects job postings as of late 2023.
 
@@ -116,6 +119,36 @@ Granularity: The data is at the "Individual Job Posting" level.
       - the most states contains that job
 - [ ] you can filter over both or between any mix to spot the cross you want to  discover.
 
+
+1. High-Level Market Overview
+At a glance, the dashboard provides a macro perspective of the industry, allowing you to:
+
+Identify Market Leaders: Pinpoint which job titles dominate the current landscape and which states serve as the primary tech hubs.
+
+Corporate Benchmarking: Discover top-hiring companies filtered by state and industry presence.
+
+Holistic Compensation Analysis: Evaluate "quality of life" metrics, including health insurance availability and work-schedule flexibility (Remote vs. On-site), alongside traditional salary data.
+
+2. Targeted Discovery via Dynamic Slicers
+By leveraging the interactive Snowflake Schema architecture, users can perform granular "Deep Dives" using multi-select slicers:
+
+Geographical Analysis (State Filter):
+
+Assess localized earning potential through Average Annual Salary benchmarks.
+
+Extract the Top-Tier Skillsets specifically demanded within a particular region.
+
+Role-Specific Analysis (Job Title Filter):
+
+Compare Salary Distributions to identify the highest-paying career paths.
+
+Map out the Technical Stack required for specific roles to guide upskilling efforts.
+
+Analyze the "Perks Gap" by seeing which roles offer the best benefits and schedule types.
+
+Cross-Dimensional Filtering:
+
+Combine multiple filters (e.g., Data Scientist in California at Large Tech Firms) to spot unique market "cross-sections" and tailor your career strategy to real-world data.
 
 
 # Recommendation

@@ -118,7 +118,7 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 
 # Recommendation
-##### based on your ///
+##### based on your /// but for me as example : i woudl say the highest salaries in california and the most reuired id data scientist which is one of my interisting jobs , and i need to learn these skills (...) and i will try my best to  be ready to applicate in the 3rd quarter to have a higher apportunity and match the most companies like (...)
 
 
 # 👤 Author

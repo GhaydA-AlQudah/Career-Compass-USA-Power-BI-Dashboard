@@ -17,7 +17,9 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 **Imagine having a personal GPS for your tech career!**
 
-<img width="1707" height="660" alt="image" src="https://github.com/user-attachments/assets/f11683a7-4ea7-47b0-9f39-af98e63fad5f" />
+<img width="1711" height="662" alt="image" src="https://github.com/user-attachments/assets/c96fd4df-1053-451d-9bd3-55db04b90842" />
+
+
 
 <img width="1715" height="665" alt="image" src="https://github.com/user-attachments/assets/7eeb1167-d359-4bb4-a2d4-1edfdf4c8697" />
 

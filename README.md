@@ -100,7 +100,6 @@ Granularity: The data is at the "Individual Job Posting" level.
 ## 5. Dashboard
 
 
-<img width="1707" height="660" alt="image" src="https://github.com/user-attachments/assets/f11683a7-4ea7-47b0-9f39-af98e63fad5f" />
 
 
 ### Example : Filtering on California State

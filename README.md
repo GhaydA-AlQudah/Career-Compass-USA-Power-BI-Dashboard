@@ -23,13 +23,6 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 
 
-<img width="1711" height="662" alt="image" src="https://github.com/user-attachments/assets/c96fd4df-1053-451d-9bd3-55db04b90842" />
-
-
-
-<img width="1715" height="665" alt="image" src="https://github.com/user-attachments/assets/7eeb1167-d359-4bb4-a2d4-1edfdf4c8697" />
-
-
 I’ve built more than just a report; this is a **Strategic Dashboard** focused on a 360-degree comparison. Whether you are a Data Scientist, an Engineer, or just starting in IT, this tool allows you to:
 
 1. See the Full Spectrum: Compare salaries, skills, and benefits across the top tech hubs in the US.

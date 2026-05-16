@@ -133,6 +133,7 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 #### 2 Filters
 
 <img width="1716" height="666" alt="image" src="https://github.com/user-attachments/assets/3218048a-73c6-4acd-82e6-50efa2bcb009" />
+<img width="1716" height="679" alt="image" src="https://github.com/user-attachments/assets/7f38fa00-95bd-4db9-a52a-34c2ce129d1f" />
 
 #### Ideas :
 - [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary

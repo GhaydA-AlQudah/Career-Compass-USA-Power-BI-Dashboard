@@ -15,7 +15,7 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 # **Our Solution: Your Interactive Strategic Career Navigator**
 
-***Imagine having a personal GPS for your tech career!***
+**Imagine having a personal GPS for your tech career!**
 
 
 <img width="1716" height="667" alt="image" src="https://github.com/user-attachments/assets/718557da-3b5d-4d82-993e-c02bfec2d905" />
@@ -77,7 +77,7 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 ## 3. Data Modeling - Snowflake Schema 
 
-### Snoflake Schema
+### Snowflake Schema
 
 <img width="1542" height="512" alt="image" src="https://github.com/user-attachments/assets/4ae6d48d-5d96-4dad-bcad-48d39000a452" />
 
@@ -99,22 +99,22 @@ This was chosen to efficiently handle the Many-to-Many relationship between jobs
 **Single Data Flow**: Snowflake filtering constraints are preserved by establishing 1:N (One-to-Many) relationships using **Bridge Table(skill_job_dim_table)**. The cross-filter direction propagates seamlessly from Dimension tables down to the Fact table, optimizing query execution times within Power BI.
 
 ## 4. Data Cleaning: 
+
 #### Empty rows and Errors Removed.
+
+#### Applied filters to scope the data specifically to US Tech Hubs, ensuring the analysis remains relevant to the targeted market.
 
 #### Feature Selection : Unrelevant Columns removed
 
-#### Feature Extraction: salay rate
-
+#### Feature Extraction: Annual Salary calculated from different columns to unify hourly, monthly, and varying compensation structures into a single standardized metric, enabling accurate *cross-functional* analysis.
 
 #### Transformation : 1. Transformed encoded numerical values into human-readable, meaningful labels.
 ####                  2. Geospatial Normalization: Mapped specific cities into their respective US States to enable high-level geographical grouping.
 ####                  3. Standardized various schedule_type entries into unified categories (e.g., Full-time, Contract, Internship).
-#### Applied filters to scope the data specifically to US Tech Hubs, ensuring the analysis remains relevant to the targeted market.
+
 #### Outliers
 
 ## 5. Dashboard
-
-
 
 
 ### Example : Filtering on California State

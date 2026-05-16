@@ -124,11 +124,6 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 
 #### Example 2 : Filtering on California State
 
-<img width="1721" height="667" alt="image" src="https://github.com/user-attachments/assets/5e5613cd-2c75-447b-ba25-2b5cfa370919" />
-
-
-<img width="1712" height="712" alt="image" src="https://github.com/user-attachments/assets/21dc3a67-a875-4f9e-91d4-c23098ed3626" />
-
 
 #### Ideas :
 - [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary

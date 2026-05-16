@@ -126,6 +126,13 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 
 <img width="1711" height="674" alt="image" src="https://github.com/user-attachments/assets/dd1448b7-caf2-4f51-a8a3-7cadba65fb4e" />
 
+#### Filtering on Job Title - Data Engineer
+
+<img width="1722" height="702" alt="image" src="https://github.com/user-attachments/assets/e65d3ae2-5c42-4dd3-ae37-2568f1edc3af" />
+
+#### 2 Filters
+
+<img width="1716" height="666" alt="image" src="https://github.com/user-attachments/assets/3218048a-73c6-4acd-82e6-50efa2bcb009" />
 
 #### Ideas :
 - [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary

@@ -1,4 +1,4 @@
-# CareerPulse-USA Interactive Dashboard
+# **CareerPulse-USA Interactive Dashboard**
 
 # Problem Statement
 Navigating the tech job market is overwhelming for IT professionals. When deciding on a career path (e.g., Data Science vs. Cloud Engineering), individuals often struggle to find a single, reliable source that compares more than just salaries. They face a "data gap" when trying to understand how different roles vary across key U.S. states in terms of:

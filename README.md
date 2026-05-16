@@ -115,20 +115,13 @@ e. Transformation : 1. Transformed encoded numerical values into human-readable,
                     3. Standardized various schedule_type entries into unified categories (e.g., Full-time, Contract, Internship).
                     
 
-f. Outliers
+f. Outliers: Identified and handled statistical anomalies and extreme wage values to prevent distortion in descriptive metrics and average charts.
 
-## 4. Data Cleaning & Transformation
-
-* **a. Row & Error Scrubbing:** Removed all empty rows, incomplete records, and execution errors to ensure dataset purity.
-* **b. Market Filtering:** Applied targeted filters to scope the data specifically to US Tech Hubs, keeping the analysis relevant to the targeted market.
-* **c. Feature Selection:** Stripped irrelevant and redundant columns to optimize model performance and reduce noise.
-* **d. Feature Extraction:** Calculated a unified Annual Salary metric from fragmented hourly, monthly, and varying compensation columns, enabling direct cross-role comparison and comprehensive salary analysis.
-* **e. Data Transformation:**
-  * **Categorical Labeling:** Converted encoded numerical values and system codes into human-readable, meaningful labels.
-  * **Geospatial Normalization:** Mapped specific, fragmented city entries into their respective US States to enable clean high-level geographical grouping.
-  * **Schedule Standardization:** Consolidated disparate schedule entries into unified operational categories (e.g., Full-time, Contract, Internship).
-* **f. Outlier Mitigation:** Identified and handled statistical anomalies and extreme wage values to prevent distortion in descriptive metrics and average charts.
-
+e. Transformation: 
+1. Transformed encoded numerical values into human-readable, meaningful labels.
+2. Geospatial Normalization: Mapped specific cities into their respective US States to enable high-level geographical grouping.
+3. Standardized various schedule_type entries into unified categories (e.g., Full-time, Contract, Internship).
+   
 ## 5. Dashboard
 
 

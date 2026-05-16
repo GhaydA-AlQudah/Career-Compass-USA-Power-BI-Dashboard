@@ -11,7 +11,7 @@ Total Compensation: Which companies and states provide essential benefits like h
 
 Barriers to Entry: Where can skills and experience outweigh the need for a traditional university degree?
 
-
+---
 
 # **Our Solution: Your Interactive Strategic Career Navigator**
 
@@ -41,7 +41,7 @@ Advanced Modeling (OLAP & Snowflake Schema): I designed an efficient OLAP Batch 
 
 Visual Storytelling (Power BI): Using Power Query and **DAX**, I built a dynamic model that updates and responds to user needs instantly.
 
- 
+
 ## 1. Metadata
 
 ### Data Source: https://www.lukebarousse.com/sql
@@ -73,12 +73,22 @@ Data Integrity: 100% validity across key columns (Annual_Salary, job_health_insu
 
 Granularity: The data is at the "Individual Job Posting" level.
 
+---
+
 ## 3. Data Modeling - Snowflake Schema 
 
 
 <img width="1542" height="512" alt="image" src="https://github.com/user-attachments/assets/4ae6d48d-5d96-4dad-bcad-48d39000a452" />
 
-
+```
+[company_dim_table] (1) ──┐
+                                 │
+                                 ▼
+                           [job_fact] (*) ── (1) ──┐
+                                                   │
+                                                   ▼
+                                        [skill_job_dim_table] (*) ── (*) ── [skills_dim_table] (1)
+```
 
 "The data model follows a Snowflake Schema architecture. This was chosen to efficiently handle the Many-to-Many relationship between jobs and skills through a bridge table (skill_job_dim_table), ensuring a highly normalized structure that reduces data redundancy."
 
@@ -160,6 +170,7 @@ Combine multiple filters (e.g., Data Scientist in California at Large Tech Firms
 # Recommendation
 ##### based on your /// but for me as example : i woudl say the highest salaries in california and the most reuired id data scientist which is one of my interisting jobs , and i need to learn these skills (...) and i will try my best to  be ready to applicate in the 3rd quarter to have a higher apportunity and match the most companies like (...)
 
+---
 
 # 👤 Author
 

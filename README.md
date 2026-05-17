@@ -19,6 +19,7 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 <img width="1712" height="662" alt="image" src="https://github.com/user-attachments/assets/589723ef-1ed8-4f12-9ee6-95b108009097" />
 
+<img width="1585" height="686" alt="image" src="https://github.com/user-attachments/assets/265a4438-46d5-4732-a649-e392efe23cd2" />
 
 
 I’ve built more than just a report; this is a **Interactive Strategic Dashboard** focused on a 360-degree comparison. Whether you are a Data Scientist, an Engineer, or just starting in IT, this tool allows you to:

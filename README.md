@@ -54,13 +54,8 @@ Visual Storytelling (Power BI): Using Power Query and **DAX**, I built a dynamic
 | `job_title_short` | `job_fact` | String | Categorized job roles (e.g., Data Engineer, Data Analyst). |
 | `job_health_insurance` | `job_fact` | String | Benefit status: "Includes Health Insurance" vs "No Health Insurance". |
 | `job_schedule_type` | `job_fact` | String | Harmonized work schedules (Full-time, Contract, etc.). |
-| `skill_id` | `skills_dim_table` | Integer | Unique identifier for technical skills. |
-| `skills` | `skills_dim_table` | String | Specific technical skill name (e.g., Python, SQL, Azure). |
-| `type` | `skills_dim_table` |String | Categorization of the skill (e.g., Programming, Cloud, Databases). |
 | `name` | `company_dim_table` | String | The name of the hiring organization. |
 | `company_id` | `company_dim_table` |Integer | Unique identifier for each hiring organization (Primary Key). |
-| `job_id` | `skill_job_dim_table` | Integer | Foreign Key linking jobs to their required skills. |
-| `skill_id` | `skill_job_dim_table` | Integer | Foreign Key linking skills to specific job postings. |
 
 
 ## 2. EDA
@@ -76,7 +71,7 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 ## 3. Data Modeling - Snowflake Schema 
 
-### Snowflake Schema
+### Star Schema
 
 <img width="1542" height="512" alt="image" src="https://github.com/user-attachments/assets/4ae6d48d-5d96-4dad-bcad-48d39000a452" />
 

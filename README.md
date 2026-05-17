@@ -18,7 +18,7 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 **Imagine having a personal GPS for your tech career!**
 
 
-<img width="1710" height="660" alt="image" src="https://github.com/user-attachments/assets/49f3b417-7589-4d07-ad64-53b9a6e946e8" />
+<img width="1711" height="666" alt="image" src="https://github.com/user-attachments/assets/166ac527-c688-425c-9ec4-de6d76de5691" />
 
 
 I’ve built more than just a report; this is a **Interactive Strategic Dashboard** focused on a 360-degree comparison. Whether you are a Data Scientist, an Engineer, or just starting in IT, this tool allows you to:
@@ -114,42 +114,12 @@ e. Transformation:
 
 f. Outliers: Identified and handled statistical anomalies and extreme wage values to prevent distortion in descriptive metrics and average charts.
 
-## 5. Dashboard
+## 5. Dashboard and Storyteling
 
-
-### Storyteling
-
-#### 1 : Without Filtering
+### 1 : Without Filtering
 <img width="1710" height="692" alt="image" src="https://github.com/user-attachments/assets/4705cd8e-e55a-401e-9a6b-99ab0afbacbc" />
 
-#### Example 2 : Filtering on California State
-
-<img width="1711" height="674" alt="image" src="https://github.com/user-attachments/assets/dd1448b7-caf2-4f51-a8a3-7cadba65fb4e" />
-
-#### Filtering on Job Title - Data Engineer
-
-<img width="1722" height="702" alt="image" src="https://github.com/user-attachments/assets/e65d3ae2-5c42-4dd3-ae37-2568f1edc3af" />
-
-#### 2 Filters
-
-<img width="1716" height="666" alt="image" src="https://github.com/user-attachments/assets/3218048a-73c6-4acd-82e6-50efa2bcb009" />
-<img width="1716" height="679" alt="image" src="https://github.com/user-attachments/assets/7f38fa00-95bd-4db9-a52a-34c2ce129d1f" />
-
-#### Ideas :
 - [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary
-
-#### and using the slicers:
-- [ ] you can filter on State:
-      - see the average annual salary in total or across  jobs
-      - the most required skills
-
-- [ ] You can filter on Jobs:
-      - the highest annusl salary
-      - the required skills
-      - priveleges (scheule type and health insurance)
-      - the most states contains that job
-- [ ] you can filter over both or between any mix to spot the cross you want to  discover.
-
 
 1. High-Level Market Overview
 At a glance, the dashboard provides a macro perspective of the industry, allowing you to:
@@ -160,6 +130,13 @@ Corporate Benchmarking: Discover top-hiring companies filtered by state and indu
 
 Holistic Compensation Analysis: Evaluate "quality of life" metrics, including health insurance availability and work-schedule flexibility (Remote vs. On-site), alongside traditional salary data.
 
+### Example 2 : Filtering on California State
+
+<img width="1711" height="674" alt="image" src="https://github.com/user-attachments/assets/dd1448b7-caf2-4f51-a8a3-7cadba65fb4e" />
+
+- [ ] you can filter on State:
+      - see the average annual salary in total or across  jobs
+      - the most required skills
 2. Targeted Discovery via Dynamic Slicers
 By leveraging the interactive Snowflake Schema architecture, users can perform granular "Deep Dives" using multi-select slicers:
 
@@ -168,6 +145,16 @@ Geographical Analysis (State Filter):
 Assess localized earning potential through Average Annual Salary benchmarks.
 
 Extract the Top-Tier Skillsets specifically demanded within a particular region.
+
+### Filtering on Job Title - Data Engineer
+
+<img width="1722" height="702" alt="image" src="https://github.com/user-attachments/assets/e65d3ae2-5c42-4dd3-ae37-2568f1edc3af" />
+
+- [ ] You can filter on Jobs:
+      - the highest annusl salary
+      - the required skills
+      - priveleges (scheule type and health insurance)
+      - the most states contains that job
 
 Role-Specific Analysis (Job Title Filter):
 
@@ -178,6 +165,13 @@ Map out the Technical Stack required for specific roles to guide upskilling effo
 Analyze the "Perks Gap" by seeing which roles offer the best benefits and schedule types.
 
 Cross-Dimensional Filtering:
+
+### 2 Filters
+
+<img width="1716" height="666" alt="image" src="https://github.com/user-attachments/assets/3218048a-73c6-4acd-82e6-50efa2bcb009" />
+<img width="1716" height="679" alt="image" src="https://github.com/user-attachments/assets/7f38fa00-95bd-4db9-a52a-34c2ce129d1f" />
+
+- [ ] you can filter over both or between any mix to spot the cross you want to  discover.
 
 Combine multiple filters (e.g., Data Scientist in California at Large Tech Firms) to spot unique market "cross-sections" and tailor your career strategy to real-world data.
 

@@ -79,6 +79,8 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 <img width="1542" height="512" alt="image" src="https://github.com/user-attachments/assets/4ae6d48d-5d96-4dad-bcad-48d39000a452" />
 
+<img width="1046" height="646" alt="image" src="https://github.com/user-attachments/assets/c8b58989-15f8-4685-a74c-5b4b5d4bbb09" />
+
 This was chosen to efficiently handle the Many-to-Many relationship between jobs and skills through a bridge table (skill_job_dim_table), ensuring a highly normalized structure that reduces data redundancy.
 
 ### Single Cross-Filter Direction
@@ -87,10 +89,7 @@ This was chosen to efficiently handle the Many-to-Many relationship between jobs
 [company_dim_table] (1)   ──┐
                             │
                             ▼
-                      [job_fact] (*) ── (1) ──┐
-                                              │
-                                              ▼
-                                        [skill_job_dim_table] (*) ── (*) ── [skills_dim_table] (1)
+                      [job_fact] (*) ── (1) 
 ```
 
 

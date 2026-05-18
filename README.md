@@ -164,7 +164,7 @@ Extract the Top-Tier Skillsets specifically demanded within a particular region.
 
 ### Filtering on Job Title - Data Engineer
 
-<img width="1601" height="712" alt="image" src="https://github.com/user-attachments/assets/2075ecdb-2dbf-4009-852a-fbc98ceeb075" />
+<img width="1587" height="709" alt="States_Filter" src="https://github.com/user-attachments/assets/b426004d-b6e1-46a4-be63-afa703b1a17d" />
 
 
 - [ ] You can filter on Jobs:
@@ -185,7 +185,7 @@ Cross-Dimensional Filtering:
 
 ### 2 Filters
 
-<img width="1592" height="723" alt="image" src="https://github.com/user-attachments/assets/cd6dfdcf-e800-4337-9049-20d199fa2ca1" />
+<img width="1581" height="704" alt="both_filters" src="https://github.com/user-attachments/assets/fe155709-84a8-451a-88cc-2063b22b132a" />
 
 
 

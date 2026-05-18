@@ -1,4 +1,4 @@
-# **Career Compass USA - Find the Right Career Path Based on Market Insights***
+# **Career Compass USA - Find the Right Career Path Based on Market Insights**
 
 # Problem Statement
 Choosing the right tech career path is becoming increasingly difficult.

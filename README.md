@@ -1,10 +1,11 @@
 #                                                   **Career Compass USA**
 
 # Problem Statement
-Choosing the right tech career path is becoming increasingly difficult.
-Different roles offer different salaries, hiring demand, benefits, and growth opportunities across U.S. states.
 
-For students, job seekers, and professionals, finding reliable and easy-to-understand market insights can be challenging. Most available information is scattered across multiple platforms and difficult to compare effectively.
+Choosing the right tech career path is becoming increasingly difficult.
+
+1. Different roles offer different salaries, hiring demand, benefits, and growth opportunities across U.S. states.
+2. Most available information is **scattered across multiple platforms and difficult to compare effectively**.
 
 As a result, **many career decisions are made based on assumptions instead of real market data**.
 

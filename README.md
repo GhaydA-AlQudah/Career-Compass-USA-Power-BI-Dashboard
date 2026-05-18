@@ -163,12 +163,9 @@ Assess localized earning potential through Average Annual Salary benchmarks.
 Extract the Top-Tier Skillsets specifically demanded within a particular region.
 
 ### Filtering on Job Title - Data Engineer
-<img width="1592" height="723" alt="image" src="https://github.com/user-attachments/assets/cd6dfdcf-e800-4337-9049-20d199fa2ca1" />
 
 <img width="1601" height="712" alt="image" src="https://github.com/user-attachments/assets/2075ecdb-2dbf-4009-852a-fbc98ceeb075" />
 
-
-<img width="1722" height="702" alt="image" src="https://github.com/user-attachments/assets/e65d3ae2-5c42-4dd3-ae37-2568f1edc3af" />
 
 - [ ] You can filter on Jobs:
       - the highest annusl salary
@@ -188,6 +185,7 @@ Cross-Dimensional Filtering:
 
 ### 2 Filters
 
+<img width="1592" height="723" alt="image" src="https://github.com/user-attachments/assets/cd6dfdcf-e800-4337-9049-20d199fa2ca1" />
 
 
 

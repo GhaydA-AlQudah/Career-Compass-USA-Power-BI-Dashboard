@@ -132,10 +132,6 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 
 <img width="1584" height="705" alt="image" src="https://github.com/user-attachments/assets/f5d6dfa8-db32-47af-ae69-d91b1c15e6b6" />
 
-<img width="1589" height="699" alt="image" src="https://github.com/user-attachments/assets/d3d46919-c772-4b75-94d7-9684bd4f167e" />
-
-
-<img width="1710" height="692" alt="image" src="https://github.com/user-attachments/assets/4705cd8e-e55a-401e-9a6b-99ab0afbacbc" />
 
 - [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary
 
@@ -150,12 +146,9 @@ Holistic Compensation Analysis: Evaluate "quality of life" metrics, including he
 
 ### Example 2 : Filtering on California State
 
-<img width="1582" height="691" alt="image" src="https://github.com/user-attachments/assets/5f6a8c60-0bdf-4ab6-a9a0-0188eadf8f69" />
+<img width="1588" height="706" alt="image" src="https://github.com/user-attachments/assets/26d94757-a366-4fb9-8e3f-d85a90b0dacb" />
 
-<img width="1581" height="704" alt="image" src="https://github.com/user-attachments/assets/95e1a63f-5b3e-4d46-baf8-ed7276b8f232" />
-
-
-<img width="1711" height="674" alt="image" src="https://github.com/user-attachments/assets/dd1448b7-caf2-4f51-a8a3-7cadba65fb4e" />
+<img width="1587" height="709" alt="image" src="https://github.com/user-attachments/assets/4124111a-b7bf-41a9-83f6-de569ea3be5b" />
 
 - [ ] you can filter on State:
       - see the average annual salary in total or across  jobs
@@ -195,7 +188,6 @@ Cross-Dimensional Filtering:
 
 ### 2 Filters
 
-![Uploading image.png…]()
 
 
 

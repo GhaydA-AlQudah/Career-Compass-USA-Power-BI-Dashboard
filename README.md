@@ -134,15 +134,25 @@ This view provides **a high-level overview of the US tech job market**, allowing
 
 <img width="1584" height="705" alt="image" src="https://github.com/user-attachments/assets/f5d6dfa8-db32-47af-ae69-d91b1c15e6b6" />
 
+
 1. ML Engineer and Data Scientist roles offer the highest average salaries in the market, highlighting the premium value of advanced AI and analytics skills.
+   
 2. Data Analyst and Data Scientist positions show the highest job demand, indicating that companies are actively hiring for data-driven decision-making roles.
+
 3. Washington has the highest average salary among all states, while California maintains a strong balance between high salaries and high job availability.
+
 4. Full-time positions **dominate** the market, accounting for nearly 76% of all job postings, which reflects employers’ preference for long-term hires.
+
 5. More than half of the listed jobs provide health insurance benefits, showing how companies use benefits packages to attract skilled talent.
+
 6. Hiring activity peaks during Q3, especially around August, before gradually declining toward the end of the year.
+
 7. High-paying roles such as ML Engineer have lower hiring demand compared to roles like Data Analyst, demonstrating the gap between salary level and market demand.
+    
 8. The presence of “Anywhere” among top hiring locations suggests a strong rise in remote work opportunities across the tech and data industry.
+ 
 9. The dashboard highlights a clear trend: companies prioritize scalable data and AI capabilities, driving both salary growth and hiring demand in analytical roles.
+
 10. Mid-level analytical roles appear more accessible and widely available, while specialized AI-focused positions remain higher-paying but more competitive.
 
 
@@ -152,15 +162,25 @@ Filter by specific job roles **to perform a deeper role-based market analysis an
 
 <img width="1585" height="720" alt="image" src="https://github.com/user-attachments/assets/17cef522-1c0e-416c-9847-172c5a60973a" />
 
+
 1. The dashboard highlights a demand–compensation gap, where high-volume roles differ significantly from premium-paying positions.
+
 2. Data Analyst roles lead workforce demand, while Data Engineering roles capture the highest salary benchmarks across the market.
+
 3. Q3 shows a clear hiring spike, indicating a seasonal surge in talent acquisition activity.
+
 4. Remote hiring continues to influence workforce distribution, with location-independent opportunities gaining strong market presence.
+
 5. The market trend reflects growing investment in scalable data infrastructure and analytics capabilities.
+
 6. Full-time employment dominates the labor market, reinforcing organizations’ focus on workforce stability and retention.
+
 7. Top-paying states indicate highly competitive talent markets with stronger compensation strategies.
+
 8. The dashboard converts raw hiring data into actionable business intelligence for strategic workforce planning.
+
 9. Compensation levels do not always align with hiring volume, revealing a mismatch between specialization and market demand.
+
 10. The analysis demonstrates how organizations balance talent scalability, operational cost, and specialized skill acquisition.
 
 
@@ -171,15 +191,25 @@ Combining filters such as job role, state, or state enables deeper analysis of h
 
 <img width="1581" height="704" alt="both_filters" src="https://github.com/user-attachments/assets/fe155709-84a8-451a-88cc-2063b22b132a" />
 
+
 1. The filtered view reveals a more specialized talent market with reduced hiring volume but higher compensation value.
+
 2. Data Engineering remains the premium-paying role, while Data Analyst positions continue to dominate workforce demand.
+
 3. Washington leads salary performance, whereas California drives the highest hiring activity, reflecting different regional market dynamics.
+
 4. The hiring trend shows a sharp Q3 spike, indicating concentrated recruitment cycles and accelerated talent acquisition.
+
 5. The dashboard highlights how niche technical skills increase compensation, even within a smaller hiring pool.
+
 6. Workforce demand is heavily concentrated in full-time opportunities, reinforcing long-term hiring strategies.
+
 7. The analysis demonstrates a clear trade-off between market demand and salary optimization.
+
 8. Filtered insights expose how organizations prioritize specialized data capabilities over workforce scale.
+
 9. The dashboard translates segmented hiring data into targeted labor market intelligence.
+
 10. The selected filters uncover a more competitive and high-value segment of the analytics job market.
 
 

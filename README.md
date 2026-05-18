@@ -130,19 +130,24 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 
 ### 1 : Without Filtering
 
-<img width="1584" height="705" alt="image" src="https://github.com/user-attachments/assets/f5d6dfa8-db32-47af-ae69-d91b1c15e6b6" />
-
-
 - [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary
 
 1. High-Level Market Overview
-At a glance, the dashboard provides a macro perspective of the industry, allowing you to:
 
-Identify Market Leaders: Pinpoint which job titles dominate the current landscape and which states serve as the primary tech hubs.
+<img width="1584" height="705" alt="image" src="https://github.com/user-attachments/assets/f5d6dfa8-db32-47af-ae69-d91b1c15e6b6" />
 
-Corporate Benchmarking: Discover top-hiring companies filtered by state and industry presence.
 
-Holistic Compensation Analysis: Evaluate "quality of life" metrics, including health insurance availability and work-schedule flexibility (Remote vs. On-site), alongside traditional salary data.
+ML Engineer and Data Scientist roles offer the highest average salaries in the market, highlighting the premium value of advanced AI and analytics skills.
+Data Analyst and Data Scientist positions show the highest job demand, indicating that companies are actively hiring for data-driven decision-making roles.
+Washington has the highest average salary among all states, while California maintains a strong balance between high salaries and high job availability.
+Full-time positions **dominate** the market, accounting for nearly 76% of all job postings, which reflects employers’ preference for long-term hires.
+More than half of the listed jobs provide health insurance benefits, showing how companies use benefits packages to attract skilled talent.
+Hiring activity peaks during Q3, especially around August, before gradually declining toward the end of the year.
+High-paying roles such as ML Engineer have lower hiring demand compared to roles like Data Analyst, demonstrating the gap between salary level and market demand.
+The presence of “Anywhere” among top hiring locations suggests a strong rise in remote work opportunities across the tech and data industry.
+The dashboard highlights a clear trend: companies prioritize scalable data and AI capabilities, driving both salary growth and hiring demand in analytical roles.
+Mid-level analytical roles appear more accessible and widely available, while specialized AI-focused positions remain higher-paying but more competitive.
+
 
 ### Example 2 : Filtering on California State
 
@@ -162,17 +167,8 @@ Assess localized earning potential through Average Annual Salary benchmarks.
 
 Extract the Top-Tier Skillsets specifically demanded within a particular region.
 
-### Filtering on Job Title - Data Engineer
-
-<img width="1585" height="720" alt="image" src="https://github.com/user-attachments/assets/17cef522-1c0e-416c-9847-172c5a60973a" />
-
-
+### Filtering on Job Role
 - [ ] You can filter on Jobs:
-      - the highest annusl salary
-      - the required skills
-      - priveleges (scheule type and health insurance)
-      - the most states contains that job
-
 Role-Specific Analysis (Job Title Filter):
 
 Compare Salary Distributions to identify the highest-paying career paths.
@@ -182,6 +178,20 @@ Map out the Technical Stack required for specific roles to guide upskilling effo
 Analyze the "Perks Gap" by seeing which roles offer the best benefits and schedule types.
 
 Cross-Dimensional Filtering:
+
+<img width="1585" height="720" alt="image" src="https://github.com/user-attachments/assets/17cef522-1c0e-416c-9847-172c5a60973a" />
+
+“The dashboard highlights a demand–compensation gap, where high-volume roles differ significantly from premium-paying positions.”
+“Data Analyst roles lead workforce demand, while Data Engineering roles capture the highest salary benchmarks across the market.”
+“Q3 shows a clear hiring spike, indicating a seasonal surge in talent acquisition activity.”
+“Remote hiring continues to influence workforce distribution, with location-independent opportunities gaining strong market presence.”
+“The market trend reflects growing investment in scalable data infrastructure and analytics capabilities.”
+“Full-time employment dominates the labor market, reinforcing organizations’ focus on workforce stability and retention.”
+“Top-paying states indicate highly competitive talent markets with stronger compensation strategies.”
+“The dashboard converts raw hiring data into actionable business intelligence for strategic workforce planning.”
+“Compensation levels do not always align with hiring volume, revealing a mismatch between specialization and market demand.”
+“The analysis demonstrates how organizations balance talent scalability, operational cost, and specialized skill acquisition.”
+
 
 ### 2 Filters
 

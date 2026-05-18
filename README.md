@@ -17,9 +17,6 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 **Imagine having a personal GPS for your tech career!**
 
-<img width="1712" height="662" alt="image" src="https://github.com/user-attachments/assets/589723ef-1ed8-4f12-9ee6-95b108009097" />
-
-<img width="1585" height="686" alt="image" src="https://github.com/user-attachments/assets/265a4438-46d5-4732-a649-e392efe23cd2" />
 
 <img width="1582" height="685" alt="image" src="https://github.com/user-attachments/assets/d01f10c9-1c2b-4c7d-8228-a898d0627450" />
 
@@ -75,8 +72,6 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 ### Star Schema
 
-<img width="1542" height="512" alt="image" src="https://github.com/user-attachments/assets/4ae6d48d-5d96-4dad-bcad-48d39000a452" />
-
 <img width="1046" height="646" alt="image" src="https://github.com/user-attachments/assets/c8b58989-15f8-4685-a74c-5b4b5d4bbb09" />
 
 Designed and optimized a high-performance Star Schema architectural model in Power BI, centralizing key market metrics within a core fact table connected directly to normalized dimensions (company_dim)."
@@ -91,7 +86,7 @@ Designed and optimized a high-performance Star Schema architectural model in Pow
 ```
 
 
-**Single Data Flow**: Snowflake filtering constraints are preserved by establishing 1:N (One-to-Many) relationships using **Bridge Table(skill_job_dim_table)**. The cross-filter direction propagates seamlessly from Dimension tables down to the Fact table, optimizing query execution times within Power BI.
+**Single Data Flow**: Snowflake filtering constraints are preserved by establishing 1:N (One-to-Many) relationships. The cross-filter direction propagates seamlessly from Dimension tables down to the Fact table, optimizing query execution times within Power BI.
 
 ## 4. Data Cleaning: 
 

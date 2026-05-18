@@ -62,7 +62,6 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 <img width="1046" height="646" alt="image" src="https://github.com/user-attachments/assets/c8b58989-15f8-4685-a74c-5b4b5d4bbb09" />
 
-Designed and optimized a high-performance Star Schema architectural model in Power BI, centralizing key market metrics within a core fact table connected directly to normalized dimensions (company_dim)."
 
 ### Single Cross-Filter Direction
 
@@ -72,9 +71,6 @@ Designed and optimized a high-performance Star Schema architectural model in Pow
                             ▼
                       [job_fact] (*) ── (1) 
 ```
-
-
-**Single Data Flow**: Snowflake filtering constraints are preserved by establishing 1:N (One-to-Many) relationships. The cross-filter direction propagates seamlessly from Dimension tables down to the Fact table, optimizing query execution times within Power BI.
 
 ## 4. Data Cleaning: 
 

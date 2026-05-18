@@ -24,36 +24,38 @@ That’s why I built this **Interactive Strategic A nalytics dashboard**: a simp
 
 • Compare career paths
 
-Explore salaries, hiring demand, benefits, and work types across different tech roles.
+  Explore salaries, hiring demand, benefits, and work types across different tech roles.
 
 • Analyze opportunities by state
 
-See which locations offer better compensation and stronger market demand.
+  See which locations offer better compensation and stronger market demand.
 
 • Make data-driven career decisions
 
-Use real market insights instead of assumptions when planning the next career move.
+  Use real market insights instead of assumptions when planning the next career move.
 
 • Navigate easily
 
-The dashboard is designed with a clean and intuitive **UX/UI** so even **non-technical** users can explore insights comfortably.
+  The dashboard is designed with a clean and intuitive **UX/UI** so even **non-technical** users can explore insights comfortably.
 
 
 ## *What’s Behind the Dashboard?*
 
 While the experience is designed to feel simple, the project involved several data engineering and analytics steps behind the scenes:
 
-• Data Preparation (Python & Pandas)
+• Data Preparation (Python(Pandas) )
 
-Cleaned and transformed raw datasets to improve data quality and consistency.
+  Cleaned and transformed raw datasets to improve data quality and consistency.
 
-• Data Modeling (OLAP & Star Schema)
+• Data Modeling (**OLAP** & Star Schema)
 
-Built a structured analytical model using a Star Schema design to support scalable and efficient analysis.
+  Built a structured analytical model using a **Star Schema** design to support scalable and efficient analysis.
 
-• Business Intelligence (Power BI, Power Query & DAX)
+• **Business Intelligence** (Power BI, Power Query & DAX)
 
-Created an interactive dashboard with **dynamic filtering** and responsive visual insights.
+  Created an interactive dashboard with **dynamic filtering** and responsive visual insights.
+  **Power Query (M Language)** was used for data transformation and preprocessing, 
+  while **DAX** was used to create dynamic measures and analytical calculations within the Power BI model.
 
 
 ## 1. Metadata

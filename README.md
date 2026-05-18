@@ -6,7 +6,7 @@ Different roles offer different salaries, hiring demand, benefits, and growth op
 
 For students, job seekers, and professionals, finding reliable and easy-to-understand market insights can be challenging. Most available information is scattered across multiple platforms and difficult to compare effectively.
 
-As a result, many career decisions are made based on assumptions **instead of real market data**.
+As a result, many career decisions are made **based on assumptions instead of real market data**.
 
 ---
 

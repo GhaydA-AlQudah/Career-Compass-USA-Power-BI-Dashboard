@@ -14,7 +14,8 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 **Imagine having a personal GPS for your tech career!**
 
-That’s why I built this **Interactive Strategic A nalytics dashboard**: a simple way to explore the U.S. tech job market through data.
+That’s why I built this **Interactive Strategic A nalytics dashboard**: a simple way to explore the U.S. tech job market through data
+designed with a clean and intuitive **UX/UI** so even **non-technical** users can explore insights comfortably.
 
 
 
@@ -22,41 +23,10 @@ That’s why I built this **Interactive Strategic A nalytics dashboard**: a simp
 
 ## *With this dashboard, users can:*
 
-• Compare career paths
+Compare career paths by exploring salary benchmarks, hiring demand, work models, and employee benefits across different tech roles.
 
-  Explore salaries, hiring demand, benefits, and work types across different tech roles.
-
-• Analyze opportunities by state
-
-  See which locations offer better compensation and stronger market demand.
-
-• Make data-driven career decisions
-
-  Use real market insights instead of assumptions when planning the next career move.
-
-• Navigate easily
-
-  The dashboard is designed with a clean and intuitive **UX/UI** so even **non-technical** users can explore insights comfortably.
-
-
-## *What’s Behind the Dashboard?*
-
-While the experience is designed to feel simple, the project involved several data engineering and analytics steps behind the scenes:
-
-• Data Preparation (Python(Pandas) )
-
-  Cleaned and transformed raw datasets to improve data quality and consistency.
-
-• Data Modeling (**OLAP** & Star Schema)
-
-  Built a structured analytical model using a **Star Schema** design to support scalable and efficient analysis.
-
-• **Business Intelligence** (Power BI, Power Query & DAX)
-
-  Created an interactive dashboard with **dynamic filtering** and responsive visual insights.
-  **Power Query (M Language)** was used for data transformation and preprocessing, 
-  while **DAX** was used to create dynamic measures and analytical calculations within the Power BI model.
-
+Perform **slice-and-dice analysis** through interactive filtering by job role, state, or both combined 
+to uncover targeted labor market trends, salary patterns, and high-demand career opportunities.
 
 ## 1. Metadata
 
@@ -117,12 +87,15 @@ c. Feature Selection : Unrelevant Columns removed
 d. Feature Extraction: Annual Salary calculated from different columns to unify hourly, monthly, and varying compensation structures into a single standardized metric, enabling accurate *cross-functional* analysis.
 
 
-e. Transformation: 
+e. Transformation:  **Power Query (M Language)** was used for data transformation and preprocessing, 
+                      while **DAX** was used to create dynamic measures and analytical calculations within the Power BI model.
+
 1. Transformed encoded numerical values into human-readable, meaningful labels.
 2. Geospatial Normalization: Mapped specific cities into their respective US States to enable high-level geographical grouping.
 3. Standardized various schedule_type entries into unified categories (e.g., Full-time, Contract, Internship).
 
 f. Outliers: Identified and handled statistical anomalies and extreme wage values to prevent distortion in descriptive metrics and average charts.
+
 
 ## 5. Dashboard and Storyteling
 

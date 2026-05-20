@@ -25,9 +25,9 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 ## *With this dashboard, users can:*
 
-Compare career paths by exploring salary benchmarks, hiring demand, work models, and employee benefits across different tech roles.
+- Compare career paths by exploring salary benchmarks, hiring demand, work models, and employee benefits across different tech roles.
 
-Perform **slice-and-dice analysis** through interactive filtering by job role, state, or both combined 
+- Perform **slice-and-dice analysis** through interactive filtering by job role, state, or both combined 
 to uncover targeted labor market trends, salary patterns, and high-demand career opportunities.
 
 ## 1. Metadata

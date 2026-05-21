@@ -26,6 +26,11 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 - It spans **2 pages**, each serving a distinct analytical purpose — from broad market benchmarking to deep skill-level insights.
 
+- Both pages support interactive filtering by:
+  **Role** — isolate insights for a specific job title
+  **State** — narrow down to a target geography
+  Use **Reset Filters** to return to the full market view.
+
 
 ## Market Overview & Hiring Trends
 
@@ -35,13 +40,6 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 <img width="1705" height="737" alt="image" src="https://github.com/user-attachments/assets/8b101375-962b-4caf-ad3b-64b39a6031f6" /> 
 
-## Data Filters Available
- 
-Both pages support interactive filtering by:
-- **Role** — isolate insights for a specific job title
-- **State** — narrow down to a target geography
-  
-Use **Reset Filters** to return to the full market view.
 
 The dashboard answers three core business questions using **slice-and-dice analysis** through interactive filtering by job role, state, or both combined :
 - **Where is the market paying the most?**

@@ -82,9 +82,9 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 ---
 ## 2. Data Cleaning & Transformation
-Applied data transformation and preprocessing using **Power Query (M Language)**, 
+- Applied data transformation and preprocessing using **Power Query (M Language)**.
 
-while leveraging **DAX** for dynamic calculations and analytical measures within Power BI.
+- while leveraging **DAX** for dynamic calculations and analytical measures within Power BI.
 
 ---
 ## 3. Data Modeling 

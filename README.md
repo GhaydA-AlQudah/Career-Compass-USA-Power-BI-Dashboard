@@ -18,14 +18,15 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 **Imagine having a personal GPS for your tech career!**
 
-- That’s why I built this **Interactive Strategic A nalytics dashboard**: a simple way to explore the U.S. tech job market through data.
+- That’s why I built this **Interactive Strategic Analytics Report**: a simple way to explore the U.S. tech job market through data.
 
 - Designed with a clean and intuitive **UX/UI** so even **non-technical** users can explore insights comfortably.
 
+## Market Overview & Hiring Trends
+<img width="1706" height="740" alt="image" src="https://github.com/user-attachments/assets/515d3fe6-329c-4adc-ab15-87544aea7ebe" />
 
-<img width="1702" height="736" alt="image" src="https://github.com/user-attachments/assets/eb6b8e26-1b4d-4a00-8201-f4813f3b547e" />
-
-<img width="1706" height="736" alt="image" src="https://github.com/user-attachments/assets/aab1beea-ffd9-4cff-981a-b041b7bf9b79" />
+## Skills & Companies Depth Analysis
+<img width="1706" height="738" alt="image" src="https://github.com/user-attachments/assets/c3ed6e83-56c9-479b-97e2-3a00af9573aa" />
 
 **With this dashboard, users can:**
 - Compare career paths by exploring salary benchmarks, hiring demand, work models, and employee benefits across different tech roles.

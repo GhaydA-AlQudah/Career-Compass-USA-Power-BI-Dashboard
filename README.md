@@ -25,6 +25,8 @@ As a result, **many career decisions are made based on assumptions instead of re
 ## Market Overview & Hiring Trends
 <img width="1706" height="740" alt="image" src="https://github.com/user-attachments/assets/515d3fe6-329c-4adc-ab15-87544aea7ebe" />
 
+<img width="1700" height="738" alt="image" src="https://github.com/user-attachments/assets/c2fc5f93-e3b2-4992-a647-ee72c050048e" />
+
 ## Skills & Companies Depth Analysis
 <img width="1706" height="738" alt="image" src="https://github.com/user-attachments/assets/c3ed6e83-56c9-479b-97e2-3a00af9573aa" />
 

@@ -47,10 +47,11 @@ to uncover targeted labor market trends, salary patterns, and high-demand career
 | `job_schedule_type` | `job_fact` | String | Harmonized work schedules (Full-time, Contract, etc.). |
 | `company_id` | `company_dim_table` |Integer | Unique identifier for each hiring organization (Primary Key). |
 | `name` | `company_dim_table` | String | The name of the hiring organization. |
-| `skill_id` | 'skill_job_dim_table' | Integer | Unique identifier for each technical skill (Primary Key). |
-| `skills` | 'skill_job_dim_table' | String | The name of the specific skill (e.g., Python, Azure, SQL). |
-| `type` | 'skill_job_dim_table' | String | Categorization of the skill (e.g., Programming, Cloud, Databases). |
-
+| `skill_id` | `skills_dim_table` | Integer | Unique identifier for each technical skill (Primary Key). |
+| `skills` | `skills_dim_table` | String | The name of the specific skill (e.g., Python, Azure, SQL). |
+| `type` | `skills_dim_table` | String | Categorization of the skill (e.g., Programming, Cloud, Databases). |
+| `job_id` | `skill_job_dim_table` | Integer | Foreign Key linking each job to its required technical skills (corresponds to `Jobs` in `job_fact`). |
+| `skill_id` | `skill_job_dim_table` | Integer | Foreign Key linking the job record to the specific skill details in `skills_dim_table`. |
 
 
 ## 2. EDA

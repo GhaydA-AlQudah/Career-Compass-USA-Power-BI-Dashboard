@@ -118,19 +118,15 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 
 
-### Example
-
-Business Insights
-The dashboard delivers a multi-dimensional view of the US data and AI job market by combining workforce demand, salary intelligence, skill distribution, hiring behavior, and work model trends into a unified analytical experience.
-Cross-page analysis reveals a strong relationship between high-paying career paths and infrastructure-oriented technical skills, where Data Engineering, Cloud, Databases, and SQL-driven capabilities consistently align with premium compensation benchmarks.
-Market demand and compensation are not perfectly correlated; while Data Analyst roles dominate hiring volume, more specialized engineering-oriented roles generate stronger salary performance, highlighting the distinction between market accessibility and market value.
-The interaction between the “Top In-Demand Technical Skills” and “Salary Benchmarks by Skill Type” visuals demonstrates that foundational technologies such as SQL and Python drive large-scale hiring demand, while advanced infrastructure ecosystems create higher monetization potential.
-Recruitment activity is heavily concentrated around enterprise hiring platforms and staffing-driven organizations, indicating a highly competitive and rapidly scaling talent acquisition landscape within the US tech sector.
-Workforce flexibility continues to reshape hiring dynamics, as remote opportunities maintain a significant market share, reinforcing the shift toward distributed and hybrid-first operational models.
-The dashboard uncovers interconnected skill clusters across career roles, showing that modern data careers increasingly require hybrid competency models rather than isolated technical specialization.
-Comparative analysis across hiring demand, compensation benchmarks, and work model distribution suggests that organizations are balancing scalability, technical depth, and workforce flexibility simultaneously when shaping recruitment strategies.
-Temporal hiring analysis highlights noticeable hiring acceleration periods across the year, emphasizing the impact of seasonal workforce planning and business expansion cycles on recruitment behavior.
-The integration of role-based filtering and geographic analysis enables slice-and-dice exploration across multiple business dimensions, transforming raw labor market data into actionable workforce intelligence.
+### Example - Business Insights
+- The dashboard provides a multi-dimensional analysis of the US data and AI job market by combining salary intelligence, hiring demand, skill distribution, and workforce trends.
+- Cross-page analysis shows that infrastructure-oriented skills such as SQL, Cloud, Databases, and Data Engineering consistently align with higher compensation benchmarks.
+- Market demand and salary value are not perfectly correlated; Data Analyst roles dominate hiring volume, while engineering-focused roles generate stronger salary performance.
+- SQL and Python remain the most in-demand technical skills, while advanced infrastructure ecosystems create higher monetization potential.
+- Remote opportunities continue to reshape hiring behavior, reinforcing the growth of distributed and hybrid workforce models.
+- Comparative analysis across compensation, hiring demand, and work models highlights how organizations balance scalability, technical depth, and workforce flexibility.
+- Temporal hiring analysis reveals noticeable recruitment acceleration periods throughout the year, reflecting seasonal workforce planning trends.
+- Interactive role-based and geographic filtering enables slice-and-dice analysis across multiple business dimensions, transforming raw labor market data into actionable workforce intelligence.
 
 ---
 # Recommendation
@@ -140,7 +136,6 @@ The integration of role-based filtering and geographic analysis enables slice-an
    
 2. Professionals seeking **a balanced career path between accessibility, hiring volume, and geographic flexibility** may find Data Analyst roles more strategic, especially within California and remote-friendly markets, where high demand, scalable hiring activity, and flexible workforce distribution create stronger entry and growth opportunities.
 
-Professionals seeking a balanced career strategy between hiring accessibility, workforce flexibility, and sustainable career growth may find Data Analyst and analytics-focused roles more strategic, especially within remote-friendly and high-volume markets, where the combination of strong hiring demand, transferable technical skills, and flexible work models creates broader entry and progression opportunities across the data ecosystem.
 
 ---
 

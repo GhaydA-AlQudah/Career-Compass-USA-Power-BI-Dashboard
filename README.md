@@ -114,7 +114,44 @@ Applied data transformation and preprocessing using **Power Query (M Language)**
 
 ### Example
 
-
+Key Insights — Career Compass USA
+1. Data Engineering Leads in Salary
+Data Engineering roles have the highest average salary at approximately 147.8K USD.
+This is significantly higher than:
+Business Analysis (~105K)
+Data Analysis (~98K)
+Indicates strong market value for advanced data infrastructure and pipeline skills.
+2. Data Analyst Roles Have the Highest Hiring Demand
+Data Analysis positions dominate hiring demand with the largest number of open opportunities.
+Suggests lower entry barriers and broader adoption across industries.
+While salaries are lower than engineering roles, job accessibility is significantly higher.
+3. California Dominates Hiring Opportunities
+California has the highest hiring demand among analyzed states.
+Indicates it remains the strongest tech employment hub despite salary competition from other states.
+4. Washington Offers the Highest Salaries
+Washington shows the highest average salary levels across tech jobs.
+Likely influenced by concentration of major tech companies and cloud infrastructure roles.
+5. Hiring Activity Peaks Mid-Year
+Hiring trends increase noticeably around:
+June
+August
+Suggests companies expand recruitment during mid-year growth cycles and Q3 planning periods.
+6. Full-Time Roles Dominate the Market
+Nearly 80% of postings are full-time positions.
+Contract, internship, and part-time opportunities represent a much smaller share.
+Indicates market stability for long-term tech careers.
+7. Health Benefits Are Common but Not Universal
+Slightly more than half of job postings include health insurance benefits.
+A considerable portion still offers no listed healthcare coverage, highlighting variation in employer compensation packages.
+8. Strong Relationship Between Skills and Compensation
+Higher-paying roles such as Data Engineering are typically associated with specialized technical skills.
+Roles with broader hiring demand tend to require more general analytical toolsets.
+This suggests that skill specialization directly impacts earning potential.
+Strategic Takeaways
+Candidates seeking higher salaries should focus on advanced engineering and cloud/data infrastructure skills.
+Candidates prioritizing job availability may benefit from pursuing analytical and reporting-focused roles.
+Geographic location significantly affects both compensation and opportunity volume.
+Skill development is a key differentiator in long-term tech career growth.
 ---
 # Recommendation
 **Career decisions vary based on individual priorities and career goals**; however, these examples represent strategic insights derived from the dashboard analysis:

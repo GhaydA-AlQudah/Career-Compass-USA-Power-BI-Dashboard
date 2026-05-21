@@ -27,8 +27,11 @@ As a result, **many career decisions are made based on assumptions instead of re
 - It spans **2 pages**, each serving a distinct analytical purpose — from broad market benchmarking to deep skill-level insights.
 
 - Both pages support interactive filtering by:
+  
   **Role** — isolate insights for a specific job title
+  
   **State** — narrow down to a target geography
+  
   Use **Reset Filters** to return to the full market view.
 
 

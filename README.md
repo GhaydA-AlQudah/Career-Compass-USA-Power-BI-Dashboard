@@ -68,20 +68,20 @@ Granularity: The data is at the "Individual Job Posting" level.
 ---
 ## 2. Data Cleaning & Transformation
 Applied data transformation and preprocessing using **Power Query (M Language)**, while leveraging **DAX** for dynamic calculations and analytical measures within Power BI.
-1. Removed empty rows, null values, and data inconsistencies to improve data quality and analytical accuracy.
+- Removed empty rows, null values, and data inconsistencies to improve data quality and analytical accuracy.
    
-2. Applied geospatial normalization by mapping cities to their corresponding US states and filtered the dataset
+- Applied geospatial normalization by mapping cities to their corresponding US states and filtered the dataset
   
    to focus specifically on US tech-related jobs and major tech hub locations.
 
 
-3. Performed feature selection by removing irrelevant and redundant columns to optimize the data model.
+- Performed feature selection by removing irrelevant and redundant columns to optimize the data model.
 
-4. Engineered a unified Annual Salary metric by standardizing hourly, monthly, and varying salary structures into a single comparable measure.
+- Engineered a unified Annual Salary metric by standardizing hourly, monthly, and varying salary structures into a single comparable measure.
 
-5. Transformed encoded and numerical categorical values into clear, human-readable labels for improved usability and reporting clarity.
+- Transformed encoded and numerical categorical values into clear, human-readable labels for improved usability and reporting clarity.
 
-6. Standardized multiple work schedule formats into unified categories such as Full-time, Contract, and Internship.
+- Standardized multiple work schedule formats into unified categories such as Full-time, Contract, and Internship.
 
 ## 3. Data Modeling 
 

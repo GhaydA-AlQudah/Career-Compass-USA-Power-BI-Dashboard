@@ -16,7 +16,7 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 ---
 
-# **Our Solution **
+# Our Solution 
 
 **Imagine having a personal GPS for your tech career!**
 

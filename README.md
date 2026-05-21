@@ -65,7 +65,7 @@ Data Integrity: 100% validity across key columns with no nulls in the final tran
 
 Granularity: The data is at the "Individual Job Posting" level.
 
-
+---
 ## 2. Data Cleaning & Transformation
 Applied data transformation and preprocessing using **Power Query (M Language)**, while leveraging **DAX** for dynamic calculations and analytical measures within Power BI.
 1. Removed empty rows, null values, and data inconsistencies to improve data quality and analytical accuracy.

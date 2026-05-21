@@ -24,20 +24,16 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 - Designed with a clean and intuitive **UX/UI** so even **non-technical** users can explore insights comfortably.
 
+- It spans **2 pages**, each serving a distinct analytical purpose — from broad market benchmarking to deep skill-level insights.
+
+
 ## Market Overview & Hiring Trends
 
 <img width="1702" height="736" alt="image" src="https://github.com/user-attachments/assets/ca3cc9ae-3de7-45e2-aad7-dbbd53142104" />
 
 ## Skills & Companies Depth Analysis
 
-<img width="1705" height="737" alt="image" src="https://github.com/user-attachments/assets/8b101375-962b-4caf-ad3b-64b39a6031f6" />
-
-## Overview
- 
-This Power BI dashboard was built to help users navigate the U.S. job market by transforming raw hiring data into actionable career intelligence. 
-
-It spans **2 pages**, each serving a distinct analytical purpose — from broad market benchmarking to deep skill-level insights.
- 
+<img width="1705" height="737" alt="image" src="https://github.com/user-attachments/assets/8b101375-962b-4caf-ad3b-64b39a6031f6" /> 
 
 ## Data Filters Available
  

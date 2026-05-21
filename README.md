@@ -26,9 +26,11 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 <img width="1587" height="692" alt="image" src="https://github.com/user-attachments/assets/693f1a9b-2921-4d64-a44a-70c6d1cd3023" />
 
+<img width="1706" height="740" alt="image" src="https://github.com/user-attachments/assets/515d3fe6-329c-4adc-ab15-87544aea7ebe" />
+
+
 <img width="1707" height="737" alt="image" src="https://github.com/user-attachments/assets/c8efff32-9d6e-40d7-80fb-f30ffed72986" />
 
-<img width="1706" height="740" alt="image" src="https://github.com/user-attachments/assets/515d3fe6-329c-4adc-ab15-87544aea7ebe" />
 
 
 ## Skills & Companies Depth Analysis

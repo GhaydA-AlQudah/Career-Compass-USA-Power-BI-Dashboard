@@ -12,6 +12,7 @@ Choosing the right tech career path is becoming increasingly difficult;
    
    making it hard for job seekers to **identify which skills are most valuable in the market**.
 
+
 As a result, **many career decisions are made based on assumptions instead of real market data**.
 
 ---

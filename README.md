@@ -22,12 +22,6 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 - Designed with a clean and intuitive **UX/UI** so even **non-technical** users can explore insights comfortably.
 
-**With this dashboard, users can:**
-- Compare career paths by exploring salary benchmarks, hiring demand, work models, and employee benefits across different tech roles.
-
-- Perform **slice-and-dice analysis** through interactive filtering by job role, state, or both combined 
-to uncover targeted labor market trends, salary patterns, and high-demand career opportunities.
-
 
 <img width="1702" height="736" alt="image" src="https://github.com/user-attachments/assets/eb6b8e26-1b4d-4a00-8201-f4813f3b547e" />
 

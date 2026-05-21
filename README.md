@@ -34,7 +34,7 @@ to uncover targeted labor market trends, salary patterns, and high-demand career
 <img width="1706" height="736" alt="image" src="https://github.com/user-attachments/assets/aab1beea-ffd9-4cff-981a-b041b7bf9b79" />
 
 
-- 
+---
 ## 1. Metadata
 
 ### Data Source: https://www.lukebarousse.com/sql

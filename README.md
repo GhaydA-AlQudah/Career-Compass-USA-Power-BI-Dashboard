@@ -89,6 +89,7 @@ Applied data transformation and preprocessing using **Power Query (M Language)**
 
 <img width="1485" height="537" alt="image" src="https://github.com/user-attachments/assets/bce0bbd2-c9b5-47a5-ad73-cf92976811eb" />
 
+<img width="1431" height="496" alt="image" src="https://github.com/user-attachments/assets/336e3125-7ce0-4416-b206-1bab08951875" />
 
 
 ### Cross-Filter Direction

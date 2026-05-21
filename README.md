@@ -6,6 +6,8 @@ Choosing the right tech career path is becoming increasingly difficult.
 
 1. Different roles offer different salaries, hiring demand, benefits, and growth opportunities across U.S. states.
 2. Most available information is **scattered across multiple platforms and difficult to compare effectively**.
+3. The required technical skills also vary significantly between roles and states,
+   making it hard for job seekers to identify which skills are most valuable in the market.
 
 As a result, **many career decisions are made based on assumptions instead of real market data**.
 
@@ -53,8 +55,29 @@ to uncover targeted labor market trends, salary patterns, and high-demand career
 | `job_id` | `skill_job_dim_table` | Integer | Foreign Key linking each job to its required technical skills (corresponds to `Jobs` in `job_fact`). |
 | `skill_id` | `skill_job_dim_table` | Integer | Foreign Key linking the job record to the specific skill details in `skills_dim_table`. |
 
+## 2. Data Cleaning: 
 
-## 2. EDA
+a. Empty rows and Errors Removed.
+
+b. Applied filters to scope the data specifically to US Tech Hubs, ensuring the analysis remains relevant to the targeted market.
+
+c. Feature Selection : Unrelevant Columns removed
+
+d. Feature Extraction: Annual Salary calculated from different columns to unify hourly, monthly, and varying compensation structures into a single standardized metric, enabling accurate *cross-functional* analysis.
+
+
+e. Transformation:  **Power Query (M Language)** was used for data transformation and preprocessing, 
+                      while **DAX** was used to create dynamic measures and analytical calculations within the Power BI model.
+
+1. Transformed encoded numerical values into human-readable, meaningful labels.
+2. Geospatial Normalization: Mapped specific cities into their respective US States to enable high-level geographical grouping.
+3. Standardized various schedule_type entries into unified categories (e.g., Full-time, Contract, Internship).
+
+f. Outliers: Identified and handled statistical anomalies and extreme wage values to prevent distortion in descriptive metrics and average charts.
+
+
+
+## 3. EDA
 Total Records: 17,788 cleaned rows (after filtering for major states and removing outliers).
 
 Time Scope: Data reflects job postings as of late 2023.
@@ -65,9 +88,9 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 
 
-## 3. Data Modeling 
+## 4. Data Modeling 
 
-### Snowflake Schema
+### Star Schema with a Bridge Table for Many-to-Many Relationships
 
 <img width="1485" height="537" alt="image" src="https://github.com/user-attachments/assets/bce0bbd2-c9b5-47a5-ad73-cf92976811eb" />
 
@@ -88,26 +111,6 @@ Granularity: The data is at the "Individual Job Posting" level.
                    │ (Single Direction)
         [skills_dim_table] (1)
 ```
-
-## 4. Data Cleaning: 
-
-a. Empty rows and Errors Removed.
-
-b. Applied filters to scope the data specifically to US Tech Hubs, ensuring the analysis remains relevant to the targeted market.
-
-c. Feature Selection : Unrelevant Columns removed
-
-d. Feature Extraction: Annual Salary calculated from different columns to unify hourly, monthly, and varying compensation structures into a single standardized metric, enabling accurate *cross-functional* analysis.
-
-
-e. Transformation:  **Power Query (M Language)** was used for data transformation and preprocessing, 
-                      while **DAX** was used to create dynamic measures and analytical calculations within the Power BI model.
-
-1. Transformed encoded numerical values into human-readable, meaningful labels.
-2. Geospatial Normalization: Mapped specific cities into their respective US States to enable high-level geographical grouping.
-3. Standardized various schedule_type entries into unified categories (e.g., Full-time, Contract, Internship).
-
-f. Outliers: Identified and handled statistical anomalies and extreme wage values to prevent distortion in descriptive metrics and average charts.
 
 
 ## 5. Dashboard and Storyteling

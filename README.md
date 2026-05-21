@@ -8,7 +8,7 @@ Choosing the right tech career path is becoming increasingly difficult;
 
 1. Different roles offer different salaries, hiring demand, benefits, and growth opportunities across U.S. states.
 2. Most available information is **scattered across multiple platforms and difficult to compare effectively**.
-3. **The required technical skills also vary significantly between roles and states**,
+3. **The required technical skills also vary significantly across roles, industries, and geographic markets**,
    
    making it hard for job seekers to **identify which skills are most valuable in the market**.
 
@@ -22,8 +22,8 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 - That’s why I built this **Interactive Strategic Analytics Report**: a simple way to explore the U.S. tech job market through data.
 
-- Designed with a clean and intuitive **UX/UI** so even **non-technical** users can explore insights comfortably.
-
+- Designed with a clean and intuitive **UX/UI** experience, enabling both technical and **non-technical stakeholders** to explore insights effectively.
+- 
 - It spans **2 pages**, each serving a distinct analytical purpose — from broad market benchmarking to deep skill-level insights.
 
 - Both pages support interactive filtering by:
@@ -112,7 +112,7 @@ Granularity: The data is at the "Individual Job Posting" level.
 ```
 ---
 
-## 4. Dashboard and Storyteling
+## 4. Dashboard and Storytelling
 
 
 

@@ -45,8 +45,12 @@ to uncover targeted labor market trends, salary patterns, and high-demand career
 | `job_title_short` | `job_fact` | String | Categorized job roles (e.g., Data Engineer, Data Analyst). |
 | `job_health_insurance` | `job_fact` | String | Benefit status: "Includes Health Insurance" vs "No Health Insurance". |
 | `job_schedule_type` | `job_fact` | String | Harmonized work schedules (Full-time, Contract, etc.). |
-| `name` | `company_dim_table` | String | The name of the hiring organization. |
 | `company_id` | `company_dim_table` |Integer | Unique identifier for each hiring organization (Primary Key). |
+| `name` | `company_dim_table` | String | The name of the hiring organization. |
+| `skill_id` | 'skill_job_dim_table' | Integer | Unique identifier for each technical skill (Primary Key). |
+| `skills` | 'skill_job_dim_table' | String | The name of the specific skill (e.g., Python, Azure, SQL). |
+| `type` | 'skill_job_dim_table' | String | Categorization of the skill (e.g., Programming, Cloud, Databases). |
+
 
 
 ## 2. EDA

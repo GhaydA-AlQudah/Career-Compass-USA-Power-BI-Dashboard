@@ -66,26 +66,25 @@ Data Integrity: 100% validity across key columns with no nulls in the final tran
 Granularity: The data is at the "Individual Job Posting" level.
 
 
-## 2. Data Cleaning: 
+## 2. Data Cleaning & Transformation
 
-a. Empty rows and Errors Removed.
+1. Removed empty rows, null values, and data inconsistencies to improve data quality and analytical accuracy.
+   
+2. Filtered the dataset to focus specifically on US tech-related jobs and major tech hub locations, ensuring relevant market analysis.
 
-b. Applied filters to scope the data specifically to US Tech Hubs, ensuring the analysis remains relevant to the targeted market.
+3. Performed feature selection by removing irrelevant and redundant columns to optimize the data model.
 
-c. Feature Selection : Unrelevant Columns removed
+4. Engineered a unified Annual Salary metric by standardizing hourly, monthly, and varying salary structures into a single comparable measure.
 
-d. Feature Extraction: Annual Salary calculated from different columns to unify hourly, monthly, and varying compensation structures into a single standardized metric, enabling accurate *cross-functional* analysis.
+5. Applied data transformation and preprocessing using Power Query (M Language), while leveraging DAX for dynamic calculations and analytical measures within Power BI.
 
+6. Converted encoded and numerical categorical values into clear, human-readable labels for improved usability and reporting clarity.
 
-e. Transformation:  **Power Query (M Language)** was used for data transformation and preprocessing, 
-                      while **DAX** was used to create dynamic measures and analytical calculations within the Power BI model.
+7. Applied geospatial normalization by mapping cities to their corresponding US states to support regional analysis and geographic aggregation.
 
-1. Transformed encoded numerical values into human-readable, meaningful labels.
-2. Geospatial Normalization: Mapped specific cities into their respective US States to enable high-level geographical grouping.
-3. Standardized various schedule_type entries into unified categories (e.g., Full-time, Contract, Internship).
+8. Standardized multiple work schedule formats into unified categories such as Full-time, Contract, and Internship.
 
-f. Outliers: Identified and handled statistical anomalies and extreme wage values to prevent distortion in descriptive metrics and average charts.
-
+9. Identified and handled salary outliers and anomalous wage records to reduce distortion in averages, KPIs, and visual analytics.
 
 ## 3. Data Modeling 
 

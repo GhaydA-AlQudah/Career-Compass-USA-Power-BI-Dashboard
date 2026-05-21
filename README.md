@@ -33,6 +33,8 @@ As a result, **many career decisions are made based on assumptions instead of re
 ## Skills & Companies Depth Analysis
 <img width="1706" height="738" alt="image" src="https://github.com/user-attachments/assets/c3ed6e83-56c9-479b-97e2-3a00af9573aa" />
 
+<img width="1710" height="738" alt="image" src="https://github.com/user-attachments/assets/4ed09a08-d556-484b-857c-41baa247d692" />
+
 **With this Report, users can:**
 - Compare career paths by exploring salary benchmarks, hiring demand, work models, and employee benefits across different tech roles.
 

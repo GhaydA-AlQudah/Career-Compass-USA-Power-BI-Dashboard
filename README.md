@@ -23,6 +23,9 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 <img width="1582" height="687" alt="image" src="https://github.com/user-attachments/assets/becdb76b-f2d8-4ddb-96ce-4f0fa1789855" />
 
+
+<img width="1582" height="682" alt="image" src="https://github.com/user-attachments/assets/0dcc5744-8a39-4ae0-a349-128663011b82" />
+
 ## *With this dashboard, users can:*
 
 - Compare career paths by exploring salary benchmarks, hiring demand, work models, and employee benefits across different tech roles.

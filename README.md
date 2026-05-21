@@ -43,14 +43,7 @@ Both pages support interactive filtering by:
   
 Use **Reset Filters** to return to the full market view.
 
-
-**With this Report, users can:**
-- Compare career paths by exploring salary benchmarks, hiring demand, work models, and employee benefits across different tech roles.
-
-- Perform **slice-and-dice analysis** through interactive filtering by job role, state, or both combined 
-to uncover targeted labor market trends, salary patterns, and high-demand career opportunities.
-
-The dashboard answers three core business questions:
+The dashboard answers three core business questions using **slice-and-dice analysis** through interactive filtering by job role, state, or both combined :
 - **Where is the market paying the most?**
 - **Who is hiring, and where?**
 - **What skills and work models are driving demand?**

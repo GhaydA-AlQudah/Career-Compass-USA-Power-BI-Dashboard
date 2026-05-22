@@ -39,11 +39,11 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 ## Market Overview & Hiring Trends
 
-<img width="1702" height="736" alt="image" src="https://github.com/user-attachments/assets/ca3cc9ae-3de7-45e2-aad7-dbbd53142104" />
+<img width="1703" height="737" alt="image" src="https://github.com/user-attachments/assets/61eb6f7a-fb1d-4494-921f-26edd1ec4a0c" />
 
 ## Skills & Companies Depth Analysis
 
-<img width="1705" height="737" alt="image" src="https://github.com/user-attachments/assets/8b101375-962b-4caf-ad3b-64b39a6031f6" /> 
+<img width="1702" height="735" alt="image" src="https://github.com/user-attachments/assets/0924a6b0-bf58-4e55-9225-aa1baed7386d" />
 
 
 The dashboard answers three core business questions using **slice-and-dice analysis** through interactive filtering by job role, state, or both combined :

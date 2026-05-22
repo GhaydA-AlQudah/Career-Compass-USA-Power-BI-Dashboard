@@ -45,12 +45,13 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 <img width="1702" height="735" alt="image" src="https://github.com/user-attachments/assets/0924a6b0-bf58-4e55-9225-aa1baed7386d" />
 
+The dashboard answers key career market questions using **slice-and-dice analysis** through interactive filtering by job role, state, or both combined:
 
-The dashboard answers three core business questions using **slice-and-dice analysis** through interactive filtering by job role, state, or both combined :
-- **Where is the market paying the most?**
-- **Who is hiring, and where?**
-- **What skills and work models are driving demand?**
-
+- **Which states and roles offer the highest salary benchmarks?**
+- **Which companies are hiring the most, and in which locations?**
+- **Which job roles are currently the most in-demand?**
+- **What technical skills are driving hiring demand and premium salaries?**
+- **How are work models (Onsite vs Remote) distributed across the market?**
 ---
 ## 1. Metadata
 

@@ -157,7 +157,7 @@ Applied data transformation and preprocessing using **Power Query (M Language)**
 
 # Recommendation
 
-Career decisions vary based on individual priorities and career goals; however, the following recommendation represents a strategic insight derived from the dashboard analysis:
+**Career decisions vary based on individual priorities and career goals**; however, the following recommendation represents a strategic insight derived from the dashboard analysis:
 
 - For professionals seeking the best balance between salary potential, hiring demand, and long-term career growth, pursuing a **Data Engineer** career path in **California** represents a strong strategic choice. While **Washington** offers the highest salary benchmarks, California combines both competitive compensation and the strongest hiring demand, creating broader market opportunities.
 

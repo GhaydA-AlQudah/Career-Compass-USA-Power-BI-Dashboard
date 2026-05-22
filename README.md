@@ -1,4 +1,4 @@
-# 📊 Career Compass USA — BI Insights Report
+# 📊 Career Compass USA — BI Insights Dashboard
  
 > **Find the Right Career Path Based on Market Insights**
 
@@ -22,7 +22,7 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 **Imagine having a personal GPS for your tech career!**
 
-- That’s why I built this **Interactive Strategic Analytics Report**: a simple way to explore the U.S. tech job market through data.
+- That’s why I built this **Interactive Strategic Analytics Dashboard**: a simple way to explore the U.S. tech job market through data.
 
 - Designed with a clean and intuitive **UX/UI** experience, enabling both technical and **non-technical stakeholders** to explore insights effectively.
   
@@ -96,7 +96,7 @@ Applied data transformation and preprocessing using **Power Query (M Language)**
 
 - Engineered a unified Annual Salary metric by standardizing hourly, monthly, and varying salary structures into a single comparable measure.
 
-- Transformed encoded and numerical categorical values into clear, human-readable labels for improved usability and reporting clarity.
+- Transformed encoded and numerical categorical values into clear, human-readable labels for improved usability and Dashboarding clarity.
 
 - Standardized multiple work schedule formats into unified categories such as Full-time, Contract, and Internship.
 
@@ -131,23 +131,41 @@ Applied data transformation and preprocessing using **Power Query (M Language)**
 
 
 ### Example - Business Insights
-- The dashboard provides a multi-dimensional analysis of the US data and AI job market by combining salary intelligence, hiring demand, skill distribution, and workforce trends.
-- Cross-page analysis shows that infrastructure-oriented skills such as SQL, Cloud, Databases, and Data Engineering consistently align with higher compensation benchmarks.
-- Market demand and salary value are not perfectly correlated; Data Analyst roles dominate hiring volume, while engineering-focused roles generate stronger salary performance.
-- SQL and Python remain the most in-demand technical skills, while advanced infrastructure ecosystems create higher monetization potential.
-- Remote opportunities continue to reshape hiring behavior, reinforcing the growth of distributed and hybrid workforce models.
-- Comparative analysis across compensation, hiring demand, and work models highlights how organizations balance scalability, technical depth, and workforce flexibility.
-- Temporal hiring analysis reveals noticeable recruitment acceleration periods throughout the year, reflecting seasonal workforce planning trends.
-- Interactive role-based and geographic filtering enables slice-and-dice analysis across multiple business dimensions, transforming raw labor market data into actionable workforce intelligence.
+- Around **17.8K job opportunities** are available across **6,220 hiring companies**, with an average market salary of **$118.35K**.  
 
+- The **highest-paying roles** are **ML Engineer, Data Scientist, and Data Engineer**.  
+  The **most in-demand roles** are **Data Analyst, Data Scientist, and Data Engineer**.  
+
+- **Washington** and **California** offer the highest salary benchmarks, while **California** and **Texas** show the strongest hiring demand.  
+
+- Hiring activity peaks during **Q3**, especially in **August**, with another strong hiring period in **June (Q2)**.  
+
+- Most job postings include **health insurance benefits**, and the majority of opportunities are **full-time positions**.  
+
+- **Remote jobs account for 27.5%** of total opportunities, while onsite roles remain the dominant work model.  
+
+- **SQL** is the **top in-demand technical skill**, followed by **Python** and **Tableau**.  
+
+- The highest-paying and most valuable skill categories are related to **Libraries, Web Frameworks, Cloud, and DevOps**.  
+
+- Companies such as **Meta, TikTok, and Capital One** provide some of the **highest salary packages** in the market.  
+
+- **Robert Half** is the **top hiring company**, leading recruitment demand across multiple roles.  
+
+- Skill distribution analysis shows that **Programming, Analysis Tools, and Cloud skills** are the most required across career paths.  
 ---
 # Recommendation
 **Career decisions vary based on individual priorities and career goals**; however, these examples represent strategic insights derived from the dashboard analysis:
 
-1. Candidates prioritizing **compensation optimization and long-term career value** should consider Data Engineering roles in Washington, where the dashboard indicates a combination of premium salary benchmarks, stable full-time demand, and strong employer investment in benefits — signaling a mature and competitive talent market.
-   
-2. Professionals seeking **a balanced career path between accessibility, hiring volume, and geographic flexibility** may find Data Analyst roles more strategic, especially within California and remote-friendly markets, where high demand, scalable hiring activity, and flexible workforce distribution create stronger entry and growth opportunities.
+- For professionals seeking the best balance between **salary potential, hiring demand, and career growth**, pursuing a **Data Engineer** career path in **California** represents a strong strategic choice.
+  
+  While states like **Washington** offer the highest salary benchmarks, California combines both **high compensation levels** and **the strongest hiring demand**, creating better long-term market opportunities.  
 
+- Candidates with skills in **SQL, Python, Cloud, DevOps, and Tableau** are highly aligned with current market needs and premium-paying roles.
+
+  Therefore, professionals who already possess these technical skills should target **Data Engineering and Data Science positions**,
+
+  while others are recommended to develop these competencies to improve employability, salary potential, and access to remote and full-time opportunities.
 
 ---
 

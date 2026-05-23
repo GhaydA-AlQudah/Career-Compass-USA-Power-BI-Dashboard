@@ -22,7 +22,7 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 **Imagine having a personal GPS for your tech career!**
 
-- That’s why I built this **Interactive Strategic Analytics Dashboard**: a simple way to explore the U.S. tech job market through data.
+- That’s why I built this dashboard: a simple way to explore the U.S. tech job market through data.
 
 - Designed with a clean and intuitive **UX/UI** experience, enabling both technical and **non-technical stakeholders** to explore insights effectively.
   

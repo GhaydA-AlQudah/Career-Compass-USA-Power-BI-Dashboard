@@ -18,7 +18,7 @@ As a result, **many career decisions are made based on assumptions instead of re
 
 ---
 
-# Solution 
+# The Solution -  *Interactive Strategic Analytics Dashboard
 
 **Imagine having a personal GPS for your tech career!**
 

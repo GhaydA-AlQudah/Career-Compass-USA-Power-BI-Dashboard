@@ -47,6 +47,9 @@ As a result, **many career decisions are made based on assumptions instead of re
 <img width="1588" height="693" alt="image" src="https://github.com/user-attachments/assets/d400478e-5d83-4f2b-a9bf-504d3d618aac" />
 
 
+<img width="1626" height="702" alt="image" src="https://github.com/user-attachments/assets/ace7d6a1-0075-4aca-8ca8-52cd2d15cdc7" />
+
+
 The dashboard answers key career market questions using **slice-and-dice analysis** through interactive filtering by job role, state, or both combined:
 
 - **Which states and roles offer the highest salary benchmarks?**

@@ -171,7 +171,7 @@ Applied data transformation and preprocessing using **Power Query (M Language)**
 
 # 👤 Author
 
-**By GhaydA' Alqudah**
+**By Ghayda Alqudah**
 
 **Computer Engineer | AI & Data Analytics Enthusiast**
 
